@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ahmet Colak
 - 👀 I’m interested in System Design, Software Domain Arcitechture and Leadership
-- 🌱 I’m currently learning Kubernetes
-- 💞️ I’m looking to collaborate on side projects
+- 🌱 I’m currently learning Kubernetes, Cloud, DevSecOps
 - 📫 You can reach me by Linkedin https://www.linkedin.com/in/colak-ahmet/
 
 <!---
